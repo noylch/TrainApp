@@ -1,0 +1,39 @@
+{
+  "name": "עומס — יומן כוח אישי",
+  "short_name": "עומס",
+  "description": "יומן כוח אישי למעקב אחרי משקלים בתרגילי Push, Pull, Legs ו-Abs",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#101113",
+  "theme_color": "#101113",
+  "dir": "rtl",
+  "lang": "he",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
